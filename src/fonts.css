@@ -96,3 +96,23 @@
     url("./assets/fonts/gilroy-light-webfont.ttf") format("truetype"),
     url("./assets/fonts/gilroy-light-webfont.svg") format("svg");
 }
+
+@font-face {
+  font-family: "P22 Underground Thin";
+  src: url("./assets/fonts/p22underground-thin-webfont.eot");
+  src: url("./assets/fonts/p22underground-thin-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/p22underground-thin-webfont.woff") format("woff"),
+    url("./assets/fonts/p22underground-thin-webfont.ttf") format("truetype"),
+    url("./assets/fonts/p22underground-thin-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "P22 Underground Light";
+  src: url("./assets/fonts/p22undergroundpro-light-webfont.eot");
+  src: url("./assets/fonts/p22undergroundpro-light-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/p22undergroundpro-light-webfont.woff") format("woff"),
+    url("./assets/fonts/p22undergroundpro-light-webfont.ttf") format("truetype"),
+    url("./assets/fonts/p22undergroundpro-light-webfont.svg") format("svg");
+}

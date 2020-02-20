@@ -2,7 +2,7 @@ import React from "react";
 import "./home_splash.css";
 import HomeSectionButton from "./HomeSectionButton";
 import whitelogo from "../assets/graphics/1080x270-03.png";
-import protein from "../assets/graphics/Protein_PIP_PDB_2icn.png";
+import protein from "../assets/graphics/protein.png";
 
 const HomeSplash = () => {
   return (
@@ -22,7 +22,9 @@ const HomeSplash = () => {
           textColor="#ffffff"
         />
       </div>
-      <img src={protein} alt="graphic" id="proteingraphic" />
+      <div id="proteincontainer">
+        <img src={protein} alt="graphic" id="proteingraphic" />
+      </div>
     </div>
   );
 };

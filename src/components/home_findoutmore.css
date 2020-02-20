@@ -1,4 +1,5 @@
 #homefindoutmore {
+  width: 100%;
   height: 600px;
   background-color: #ffffff;
   color: #0f0a59;
@@ -8,7 +9,7 @@
 
 #allfor1 {
   font-size: 56px;
-  font-family: p22-underground, sans-serif;
+
   letter-spacing: 5px;
 }
 
@@ -21,3 +22,7 @@
 #meetheadcoach {
   margin: 64px 32px;
 }
+
+/* #splashtext {
+  font-family: "P22 Underground Light", sans-serif;
+} */

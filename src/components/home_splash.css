@@ -1,10 +1,12 @@
 #homesplash {
-  margin-top: 80px;
+  margin-top: 64px;
+  width: 100%;
   height: 600px;
   background-color: #f24423;
   color: #ffffff;
   text-align: left;
   padding: 28px;
+  padding-right: 0;
 }
 
 #logo {
@@ -18,15 +20,23 @@
   width: 454px;
 }
 
-#proteingraphic {
+#proteincontainer {
   position: absolute;
   bottom: 0;
-  right: -100px;
-  width: 600px;
-  height: 507px;
-  transform: rotate(180deg);
+  right: 0;
+  width: 700px;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+#proteingraphic {
+  width: 700px;
+  height: 491px;
 }
 
 #splashcontainer {
   margin: 100px;
+  width: 40%;
+  z-index: 5;
 }

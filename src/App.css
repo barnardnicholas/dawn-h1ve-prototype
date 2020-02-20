@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  font-family: ;
+  font-family: "P22 Undergound Thin", sans-serif;
+  width: 100%;
 }
 
 h1 {
@@ -12,6 +13,10 @@ h2 {
   font-size: 24px;
   line-height: 1.3em;
   margin: 24px 0px;
+}
+
+h3 {
+  font-family: "P22 Underground Light", sans-serif;
 }
 
 p {
