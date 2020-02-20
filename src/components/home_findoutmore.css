@@ -2,4 +2,22 @@
   height: 600px;
   background-color: #ffffff;
   color: #0f0a59;
+  text-align: left;
+  padding: 28px;
+}
+
+#allfor1 {
+  font-size: 56px;
+  font-family: p22-underground, sans-serif;
+  letter-spacing: 5px;
+}
+
+#fomcontainer {
+  margin: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#meetheadcoach {
+  margin: 64px 32px;
 }
