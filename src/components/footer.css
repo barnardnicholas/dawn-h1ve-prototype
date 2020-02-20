@@ -2,4 +2,20 @@
   height: 120px;
   background-color: #0f0a59;
   color: #ffffff;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 48px;
+}
+
+#footerlogo {
+  margin: 12px;
+}
+
+#socialmedialogos {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#socialmedialogos > img {
+  margin: 16px;
 }
