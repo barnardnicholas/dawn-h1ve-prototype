@@ -2,4 +2,22 @@
   height: 600px;
   background-color: #00d1ff;
   color: #0f0a59;
+  text-align: center;
+}
+
+#communitycontainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+#communitytitle {
+  color: #ffffff;
+}
+
+#commpiccontainer {
+  display: flex;
+}
+
+.instapic {
+  margin: 8px;
 }
