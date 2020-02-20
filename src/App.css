@@ -24,3 +24,38 @@ p {
   line-height: 1.4em;
   font-family: "Gilroy Light", sans-serif;
 }
+
+@media only screen and (max-width: 1000px) {
+  h1 {
+  }
+
+  h2 {
+  }
+
+  h3 {
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  #proteincontainer {
+    visibility: hidden;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  h1 {
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+  }
+
+  p {
+    font-size: 18px;
+  }
+}

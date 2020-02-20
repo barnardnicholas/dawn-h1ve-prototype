@@ -24,7 +24,7 @@ const HomeFindOutMore = () => {
             textColor="#ffffff"
           />
         </div>
-        <div>
+        <div id="meetheadcoach">
           <iframe
             title="H1VE - Meet our Head Coach, Andy Turner"
             src="https://www.youtube.com/embed/p78iYkfRuO0?feature=oembed"
@@ -34,7 +34,6 @@ const HomeFindOutMore = () => {
             name="fitvid0"
             width="440"
             height="247"
-            id="meetheadcoach"
           ></iframe>
         </div>
         <br />

@@ -37,11 +37,34 @@
 
 #splashcontainer {
   margin: 100px;
+  margin-left: 150px;
   margin-top: 84px;
-  width: 40%;
+  /* width: 40%; */
   z-index: 5;
 }
 
 #bondpattern2 {
-  position: absolute;
+  position: relative;
+}
+
+@media screen and (max-width: 1000px) {
+  #homesplash {
+    padding: 12px;
+    margin-top: 48px;
+    height: 486px;
+    margin-bottom: 32px;
+  }
+  #splashcontainer {
+    margin: 16px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #splashcontainer {
+    margin: 20px;
+  }
+
+  #proteincontainer {
+    visibility: hidden;
+  }
 }

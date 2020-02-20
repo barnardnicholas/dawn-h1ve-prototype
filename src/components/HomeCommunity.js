@@ -1,6 +1,5 @@
 import React from "react";
 import "./home_community.css";
-import HomeSectionButton from "./HomeSectionButton";
 import insta1 from "../assets/graphics/insta1.jpg";
 import insta2 from "../assets/graphics/insta2.jpg";
 import insta3 from "../assets/graphics/insta3.jpg";
@@ -34,7 +33,6 @@ const HomeCommunity = () => {
           </div>
         </div>
       </div>
-      {/* <br /> */}
       <img
         src={bondpattern2white}
         alt="graphic"

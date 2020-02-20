@@ -7,6 +7,11 @@
   padding: 48px;
 }
 
+#footer > div {
+  margin: 12px;
+  font-family: "Gilroy Light", sans-serif;
+}
+
 #footerlogo {
   margin: 12px;
 }
@@ -18,4 +23,29 @@
 
 #socialmedialogos > img {
   margin: 16px;
+}
+
+@media screen and (max-width: 1000px) {
+  #footer {
+    padding: 12px;
+  }
+  #footer > div {
+    font-size: 12px;
+  }
+  #socialmedialogos > img {
+    margin: 4px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  #footer {
+    padding: 8px;
+  }
+  #footer > div {
+    margin: 4px;
+    font-size: 10px;
+  }
+  #socialmedialogos > img {
+    margin: 4px;
+  }
 }

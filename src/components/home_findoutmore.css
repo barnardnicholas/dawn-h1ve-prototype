@@ -29,3 +29,37 @@
   bottom: -700px;
   left: 50%;
 }
+
+@media screen and (max-width: 1000px) {
+  #homefindoutmore {
+    padding: 12px;
+  }
+
+  #allfor1 {
+    font-size: 40px;
+    letter-spacing: 5px;
+  }
+
+  #fomcontainer {
+    flex-direction: column;
+    margin: 16px;
+  }
+
+  #meetheadcoach {
+    margin: 16px 0px;
+    width: 440;
+    height: 247;
+  }
+
+  #bondpattern1 {
+    bottom: -600px;
+    left: 500px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #bondpattern1 {
+    visibility: hidden;
+    position: fixed;
+  }
+}
