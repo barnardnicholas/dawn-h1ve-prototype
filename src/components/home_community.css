@@ -23,3 +23,9 @@
 .instapic {
   margin: 8px;
 }
+
+#bondpattern2white {
+  position: relative;
+  top: -50px;
+  transform: rotate(90deg);
+}

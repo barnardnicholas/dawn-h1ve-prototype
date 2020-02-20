@@ -1,6 +1,7 @@
 import React from "react";
 import "./home_findoutmore.css";
 import HomeSectionButton from "./HomeSectionButton";
+import bondpattern1 from "../assets/graphics/bondpattern1.png";
 
 const HomeFindOutMore = () => {
   return (
@@ -36,6 +37,14 @@ const HomeFindOutMore = () => {
             id="meetheadcoach"
           ></iframe>
         </div>
+        <br />
+        <img
+          src={bondpattern1}
+          alt="graphic"
+          id="bondpattern1"
+          width="85"
+          height="220"
+        />
       </div>
     </div>
   );

@@ -3,6 +3,7 @@ import "./home_splash.css";
 import HomeSectionButton from "./HomeSectionButton";
 import whitelogo from "../assets/graphics/1080x270-03.png";
 import protein from "../assets/graphics/protein.png";
+import bondpattern2 from "../assets/graphics/bondpattern2.png";
 
 const HomeSplash = () => {
   return (
@@ -20,6 +21,14 @@ const HomeSplash = () => {
           text="JOIN NOW"
           backgroundColor="#0F0A59"
           textColor="#ffffff"
+        />
+        <br />
+        <img
+          src={bondpattern2}
+          alt="graphic"
+          id="bondpattern2"
+          width="46"
+          height="150"
         />
       </div>
       <div id="proteincontainer">

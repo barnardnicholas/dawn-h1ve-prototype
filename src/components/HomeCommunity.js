@@ -4,6 +4,7 @@ import HomeSectionButton from "./HomeSectionButton";
 import insta1 from "../assets/graphics/insta1.jpg";
 import insta2 from "../assets/graphics/insta2.jpg";
 import insta3 from "../assets/graphics/insta3.jpg";
+import bondpattern2white from "../assets/graphics/bondpattern2_white.png";
 
 const HomeCommunity = () => {
   return (
@@ -33,6 +34,14 @@ const HomeCommunity = () => {
           </div>
         </div>
       </div>
+      {/* <br /> */}
+      <img
+        src={bondpattern2white}
+        alt="graphic"
+        id="bondpattern2white"
+        width="46"
+        height="150"
+      />
     </div>
   );
 };
