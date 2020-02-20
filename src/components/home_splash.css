@@ -3,4 +3,18 @@
   height: 600px;
   background-color: #f24423;
   color: #ffffff;
+  text-align: left;
+  padding: 28px;
+}
+
+#logo {
+  position: relative;
+  width: 250px;
+  height: 53px;
+}
+
+#splashtext {
+  width: 454px;
+  line-height: 1.4em;
+  font-family: "Gilroy Light", sans-serif;
 }

@@ -78,11 +78,21 @@
 }
 
 @font-face {
-  font-family: "Gilroy";
+  font-family: "Gilroy Regular";
   src: url("./assets/fonts/gilroy-regular-webfont.eot");
   src: url("./assets/fonts/gilroy-regular-webfont.eot")
       format("embedded-opentype"),
     url("./assets/fonts/gilroy-regular-webfont.woff") format("woff"),
     url("./assets/fonts/gilroy-regular-webfont.ttf") format("truetype"),
     url("./assets/fonts/gilroy-regular-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Gilroy Light";
+  src: url("./assets/fonts/gilroy-light-webfont.eot");
+  src: url("./assets/fonts/gilroy-light-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/gilroy-light-webfont.woff") format("woff"),
+    url("./assets/fonts/gilroy-light-webfont.ttf") format("truetype"),
+    url("./assets/fonts/gilroy-light-webfont.svg") format("svg");
 }
