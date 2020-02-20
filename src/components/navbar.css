@@ -1,0 +1,8 @@
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 80px;
+  background-color: #f24423;
+  color: #ffffff;
+}
