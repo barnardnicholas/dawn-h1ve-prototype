@@ -11,10 +11,24 @@
   position: relative;
   width: 250px;
   height: 53px;
+  margin: 24px 0px;
 }
 
 #splashtext {
   width: 454px;
   line-height: 1.4em;
   font-family: "Gilroy Light", sans-serif;
+}
+
+#proteingraphic {
+  position: absolute;
+  bottom: 0;
+  right: -100px;
+  width: 600px;
+  height: 507px;
+  transform: rotate(180deg);
+}
+
+#splashcontainer {
+  margin: 100px;
 }
