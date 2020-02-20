@@ -1,8 +1,12 @@
 import React from "react";
 import "./navbutton.css";
 
-const NavButton = ({ text }) => {
-  return <button class="navbutton">{text}</button>;
+const NavButton = ({ text, id }) => {
+  return (
+    <button class="navbutton" id={id}>
+      {text}
+    </button>
+  );
 };
 
 export default NavButton;

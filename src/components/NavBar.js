@@ -9,8 +9,8 @@ const NavBar = () => {
       <NavButton text="COMMUNITY" />
       <NavButton text="CLASSES" />
       <NavButton text="ABOUT" />
-      <NavButton text="BOOK NOW" />
-      <NavButton text="JOIN" />
+      <NavButton text="BOOK NOW" id="whitetext" />
+      <NavButton text="JOIN" id="whitetext" />
     </div>
   );
 };

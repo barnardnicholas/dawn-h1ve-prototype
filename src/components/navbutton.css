@@ -1,12 +1,19 @@
 button {
+  font-family: Gilroy Regular, sans-serif;
+  letter-spacing: 2px;
   background-color: transparent;
   border-style: none;
-  width: 120px;
+  /* width: 120px; */
   height: 60px;
   font-size: 16px;
   color: #0f0a59;
+  padding: 0px 24px;
 }
 
 button:active {
   outline: none;
+}
+
+#whitetext {
+  color: #ffffff;
 }
