@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "Tremble";
+  src: url("./assets/fonts/tremble-webfont.eot");
+  src: url("./assets/fonts/tremble-webfont.eot") format("embedded-opentype"),
+    url("./assets/fonts/tremble-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Bold";
+  src: url("./assets/fonts/tremble-bold-webfont.eot");
+  src: url("./assets/fonts/tremble-bold-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-bold-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-bold-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-bold-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Italic";
+  src: url("./assets/fonts/tremble-italic-webfont.eot");
+  src: url("./assets/fonts/tremble-italic-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-italic-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-italic-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-italic-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Ultra";
+  src: url("./assets/fonts/tremble-ultra-webfont.eot");
+  src: url("./assets/fonts/tremble-ultra-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-ultra-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-ultra-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-ultra-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Light";
+  src: url("./assets/fonts/tremble-light-webfont.eot");
+  src: url("./assets/fonts/tremble-light-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-light-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-light-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-light-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Bold Italic";
+  src: url("./assets/fonts/tremble-bolditalic-webfont.eot");
+  src: url("./assets/fonts/tremble-bolditalic-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-bolditalic-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-bolditalic-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-bolditalic-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Light Italic";
+  src: url("./assets/fonts/tremble-lightitalic-webfont.eot");
+  src: url("./assets/fonts/tremble-lightitalic-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-lightitalic-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-lightitalic-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-lightitalic-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Tremble Ultra Italic";
+  src: url("./assets/fonts/tremble-ultraitalic-webfont.eot");
+  src: url("./assets/fonts/tremble-ultraitalic-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/tremble-ultraitalic-webfont.woff") format("woff"),
+    url("./assets/fonts/tremble-ultraitalic-webfont.ttf") format("truetype"),
+    url("./assets/fonts/tremble-ultraitalic-webfont.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("./assets/fonts/gilroy-regular-webfont.eot");
+  src: url("./assets/fonts/gilroy-regular-webfont.eot")
+      format("embedded-opentype"),
+    url("./assets/fonts/gilroy-regular-webfont.woff") format("woff"),
+    url("./assets/fonts/gilroy-regular-webfont.ttf") format("truetype"),
+    url("./assets/fonts/gilroy-regular-webfont.svg") format("svg");
+}
